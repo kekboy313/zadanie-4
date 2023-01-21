@@ -32,6 +32,7 @@ ___
 
 9.**[git defftoll](/gitDifftool.md)**
 
+10.**[git push](/gitpush.md)**
 ___
 **[Подведение Итогов](/zakluchenie.md)**
 
