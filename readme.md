@@ -45,5 +45,11 @@ ___
 <hr>
 
 <b>GIT logo by Jason Long -  https://ru.wikipedia.org/wiki/Git license: [CC BY 3.0](https://creativecommons.org/licenses/)</b>
+___
+Контакты:
 
+<b>Автор: Гололобов Иван
+
+По вопросам и предложениям сюда:
+Ivan313414@gmail.com</b>
 
