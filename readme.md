@@ -33,8 +33,8 @@ ___
 9.**[git defftoll](/gitDifftool.md)**
 
 10.**[git push](/gitpush.md)**
-
-11.**[Замена или редактирование программ на GIT](/ZAMENA.md)**
+___
+**[Замена или редактирование программ на GIT](/ZAMENA.md)**
 ___
 **[Подведение Итогов](/zakluchenie.md)**
 
