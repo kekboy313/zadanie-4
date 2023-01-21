@@ -7,5 +7,5 @@
 ```bash=
 git add .
 ```
-
+___
 [Главная](/readme.md)

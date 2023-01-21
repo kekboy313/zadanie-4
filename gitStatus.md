@@ -5,5 +5,5 @@
 ```bash=
 git status
 ```
-
+___
 [Главная](/readme.md)

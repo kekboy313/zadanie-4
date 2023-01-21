@@ -4,5 +4,5 @@
 ````bash=
 git reset
 ````
-
+___
 [Главная](/readme.md)

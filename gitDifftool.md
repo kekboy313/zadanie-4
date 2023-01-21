@@ -4,5 +4,6 @@
 ````bash=
 git difftool
 ````
+___
 [Главная](/readme.md)
 

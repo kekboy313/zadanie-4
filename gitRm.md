@@ -4,4 +4,5 @@
 ````bash=
 git rm
 ````
+___
 [Главная](/readme.md)
